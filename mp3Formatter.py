@@ -1,6 +1,7 @@
 import os 
 
 directory = r"C:\Users\[path to directory that has mp3 files]"
+# eg C:\Users\User\Music\Barbra Streisand\A Collection- Greatest Hits... And More
 # https://datatofish.com/rename-file-python/
 # rename files to get rid of numbers in front of them
 
