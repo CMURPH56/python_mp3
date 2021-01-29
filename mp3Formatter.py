@@ -2,7 +2,7 @@ import os
 import tkinter as tk
 from tkinter import filedialog
 
-# This will correct he blury font issue in Windows 10
+# This will correct the blury font issue in Windows 10 with Tkinter
 if os.name == "nt":
     from ctypes import windll, pointer, wintypes
     try:
